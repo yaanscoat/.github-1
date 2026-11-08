@@ -7,7 +7,7 @@
 Here's a list of things we've been working on
 
 - [Among Us](https://wasm.rip/files/amongus/index.html) - Group Project
-- [Azahar Web](https://wasm.rip/files/Azahar/index.html) - ported by SomeRandomFella
+- [Azahar Web](https://wasm.rip/files/Azahar/index.html) - port by SomeRandomFella
 - [Bendy and the Ink Machine](https://wasm.rip/files/BATIM/index.html) - port by crackers and slqnt
 - [Clustertruck](https://wasm.rip/files/ClusterTruck/clustertruck.html) - port by NotRexxed
 - [Cuphead](https://wasm.rip/files/cuphead/index.html) - port by crackers
